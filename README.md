@@ -1,6 +1,8 @@
 # menu_ordering_app
 
-A new Flutter project.
+Simple Menu Ordering App
+
+It has a feature where you can remove an item from cart by swiping it left or right
 
 ## Getting Started
 
