@@ -1,4 +1,4 @@
-# menu_ordering_app
+# Simple Menu Ordering App
 
 Simple Menu Ordering App
 
